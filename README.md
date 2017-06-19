@@ -6,9 +6,6 @@ _We present Okutama-Action, a new video dataset for aerial view concurrent human
 
 [Okutama-Action: An Aerial View Video Dataset for Concurrent Human Action Detection](https://arxiv.org/abs/1706.03038)
 
-#### Annotation examples
-
-TODO
 
 #### Download
 
