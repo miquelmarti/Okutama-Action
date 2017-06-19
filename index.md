@@ -21,7 +21,7 @@ Okutama-Action: An Aerial View Video Dataset for Concurrent Human Action Detecti
 
 #### Annotation examples
 
-TODO
+<iframe width="853" height="480" src="https://www.youtube.com/embed/ZXJCN9zrXPM?rel=0" frameborder="0" allowfullscreen></iframe>
 
 #### Download
 
