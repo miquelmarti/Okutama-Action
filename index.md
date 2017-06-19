@@ -25,8 +25,8 @@ TODO
 
 #### Download
 
-TODO
+Find the training set of Okutama-Action in the following [link](https://drive.google.com/drive/folders/0B6O3GZcCIFuDaUs4dG1HWWEyUWM?usp=sharing).
 
 #### About
 
-TODO
+The creation of this dataset was supported by [Prendinger Lab](http://research.nii.ac.jp/~prendinger/) at the [National Institute of Informatics](http://www.nii.ac.jp/en/), Tokyo, Japan.
