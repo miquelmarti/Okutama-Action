@@ -53,7 +53,7 @@ definition of these integers from left to right are:
 2.   Part of the day. "1" indicates *morning* and "2" indicates *noon*.
 3.   Scenario number.
 
-Hence, the pair of videos with the same integer feature 2 and 3 are the same scenario from different configuration
+Hence, the pair of videos with the same last two integers are the same scenario with different drones configuration.
 
 **Labels**:  Each line contains 10+ columns, separated by spaces. The
 definition of these columns are:
