@@ -58,7 +58,7 @@ Hence, the pair of videos with the same integer feature 2 and 3 are the same sce
 **Labels**:  Each line contains 10+ columns, separated by spaces. The
 definition of these columns are:
 
-1.   Track ID. * All rows with the same ID belong to the same person for 180 frames. Then the person gets a new idea for the next 180 frames. We will soon release an update to make the IDs consistant.*
+1.   Track ID. *All rows with the same ID belong to the same person for 180 frames. Then the person gets a new idea for the next 180 frames. We will soon release an update to make the IDs consistant.*
 2.   xmin. The top left x-coordinate of the bounding box.
 3.   ymin. The top left y-coordinate of the bounding box.
 4.   xmax. The bottom right x-coordinate of the bounding box.
