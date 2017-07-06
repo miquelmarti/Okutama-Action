@@ -78,7 +78,7 @@ There are two label files for each video; one for *single*-action detection and 
 ---
 
 #### MODELS DOWNLOAD
-**Final trained models [link](https://drive.google.com/drive/folders/0BydaU2Imk1zjSUpCdFpmbmtEeHc?usp=sharing)**.
+**Final trained Caffe models [link](https://drive.google.com/drive/folders/0BydaU2Imk1zjSUpCdFpmbmtEeHc?usp=sharing)**.
 
 ---
 
