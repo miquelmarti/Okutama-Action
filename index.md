@@ -77,6 +77,11 @@ There are two label files for each video; one for *single*-action detection and 
 
 ---
 
+#### MODELS DOWNLOAD
+**Final trained models [link](https://drive.google.com/drive/folders/0BydaU2Imk1zjSUpCdFpmbmtEeHc?usp=sharing)**.
+
+---
+
 #### UPDATES
 We will soon release the metadata for each video sequence, namely camera angle, speed and altitude of the drones.
 
@@ -88,4 +93,4 @@ The creation of this dataset was supported by [Prendinger Lab](http://research.n
 
 ###### Contact : m.barekatain at tum dot de
 
-###### Last update : 25/06/2017
+###### Last update : 07/07/2017
