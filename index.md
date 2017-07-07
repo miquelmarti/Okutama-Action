@@ -89,7 +89,7 @@ We will soon release the metadata for each video sequence, namely camera angle, 
 
 #### ABOUT
 
-The creation of this dataset was supported by [Prendinger Lab](http://research.nii.ac.jp/~prendinger/) at the [National Institute of Informatics](http://www.nii.ac.jp/en/), Tokyo, Japan.
+The creation of this dataset was supported by [Prendinger Lab](http://research.nii.ac.jp/~prendinger/) at the [National Institute of Informatics](http://nii.ac.jp/en/), Tokyo, Japan.
 
 ###### Contact : m.barekatain at tum dot de
 
