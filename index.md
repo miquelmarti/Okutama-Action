@@ -243,45 +243,45 @@ a.member__link {
     <div class="team-grid__member hover">
       <div class="member__info">
         <div class="center-vert-content">
-          <h5 class="member__name">Mohammadamin Barekatain</h5>
+          <h3 class="member__name">Mohammadamin Barekatain</h3>
           <p class="member__title">Technical University of Munich</p>
           <a class="member__link" href="http://barekatain.me/">Read More</a>
         </div>
       </div>
-      <img src="images/amin.jpg" alt="Mohammadamin Barekatain" height="150" width="150">
+      <img src="images/amin.jpg" alt="Mohammadamin Barekatain">
     </div>
 
     <div class="team-grid__member hover">
       <div class="member__info">
         <div class="center-vert-content">
-          <h5 class="member__name"> Miquel Marti </h5>
+          <h3 class="member__name"> Miquel Marti </h3>
           <p class="member__title">KTH Royal Institute of Technology</p>
           <a class="member__link" href="https://miquelmarti.github.io">Read More</a>
         </div>
       </div>
-      <img src="images/miquel.jpg" alt="Miquel Marti" height="150" width="150">
+      <img src="images/miquel.jpg" alt="Miquel Marti">
     </div>
 
     <div class="team-grid__member hover">
       <div class="member__info">
         <div class="center-vert-content">
-          <h5 class="member__name">Hsueh-Fu Shih</h5>
+          <h3 class="member__name">Hsueh-Fu Shih</h3>
           <p class="member__title">National Taiwan University</p>
           <a class="member__link" href="https://www.linkedin.com/in/hsueh-fu-shih-621616b5/">Read More</a>
         </div>
       </div>
-      <img src="images/jeff.jpg" alt="Hsueh-Fu Shih" height="150" width="150">
+      <img src="images/jeff.jpg" alt="Hsueh-Fu Shih">
     </div>
 
     <div class="team-grid__member hover">
       <div class="member__info">
         <div class="center-vert-content">
-          <h5 class="member__name"> Samuel Murray </h5>
+          <h3 class="member__name"> Samuel Murray </h3>
           <p class="member__title">KTH Royal Institute of Technology</p>
           <a class="member__link" href="https://www.linkedin.com/in/samuel-murray-6012545a">Read More</a>
         </div>
       </div>
-      <img src="images/samuel.jpg" alt="Samuel Murray" height="150" width="150">
+      <img src="images/samuel.jpg" alt="Samuel Murray">
     </div>
 
 </div>
