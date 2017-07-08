@@ -98,6 +98,7 @@ The creation of this dataset was supported by [Prendinger Lab](http://research.n
 ---
 #### DEVELOPERS TEAM
 <dl>
+<body>
 <script type="text/javascript" src="//use.typekit.net/npe3lft.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
@@ -110,7 +111,7 @@ The creation of this dataset was supported by [Prendinger Lab](http://research.n
       <div class="member__info">
         <div class="center-vert-content">
           <h5 class="member__name">Mohammadamin Barekatain</h5>
-          <p class="member__title">Technical University of Munich</p>
+          <!-- <p class="member__title">Technical University of Munich</p> -->
           <a class="member__link" href="http://barekatain.me/">Read More</a>
         </div>
       </div>
@@ -121,7 +122,7 @@ The creation of this dataset was supported by [Prendinger Lab](http://research.n
       <div class="member__info">
         <div class="center-vert-content">
           <h5 class="member__name"> Miquel Marti </h5>
-          <p class="member__title">KTH Royal Institute of Technology</p>
+          <!-- <p class="member__title">KTH Royal Institute of Technology</p> -->
           <a class="member__link" href="https://miquelmarti.github.io">Read More</a>
         </div>
       </div>
@@ -132,7 +133,7 @@ The creation of this dataset was supported by [Prendinger Lab](http://research.n
       <div class="member__info">
         <div class="center-vert-content">
           <h5 class="member__name">Hsueh-Fu Shih</h5>
-          <p class="member__title">National Taiwan University</p>
+          <!-- <p class="member__title">National Taiwan University</p> -->
           <a class="member__link" href="https://www.linkedin.com/in/hsueh-fu-shih-621616b5/">Read More</a>
         </div>
       </div>
@@ -143,7 +144,7 @@ The creation of this dataset was supported by [Prendinger Lab](http://research.n
       <div class="member__info">
         <div class="center-vert-content">
           <h5 class="member__name"> Samuel Murray </h5>
-          <p class="member__title">KTH Royal Institute of Technology</p>
+          <!-- <p class="member__title">KTH Royal Institute of Technology</p> -->
           <a class="member__link" href="https://www.linkedin.com/in/samuel-murray-6012545a">Read More</a>
         </div>
       </div>
@@ -152,4 +153,5 @@ The creation of this dataset was supported by [Prendinger Lab](http://research.n
 </div>
 </div>
 </div>
+</body>
 </dl>
