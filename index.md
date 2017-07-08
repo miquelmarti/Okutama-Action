@@ -109,49 +109,47 @@ The creation of this dataset was supported by [Prendinger Lab](http://research.n
     <div class="team-grid__member hover">
       <div class="member__info">
         <div class="center-vert-content">
-          <h3 class="member__name">Mohammadamin Barekatain</h3>
+          <h5 class="member__name">Mohammadamin Barekatain</h5>
           <p class="member__title">Technical University of Munich</p>
           <a class="member__link" href="http://barekatain.me/">Read More</a>
         </div>
       </div>
-      <img src="images/amin.jpg" alt="Mohammadamin Barekatain" height="300" width="300">
+      <img src="images/amin.jpg" alt="Mohammadamin Barekatain" height="150" width="150">
     </div>
 
     <div class="team-grid__member hover">
       <div class="member__info">
         <div class="center-vert-content">
-          <h3 class="member__name"> Miquel Marti </h3>
+          <h5 class="member__name"> Miquel Marti </h5>
           <p class="member__title">KTH Royal Institute of Technology</p>
           <a class="member__link" href="https://miquelmarti.github.io">Read More</a>
         </div>
       </div>
-      <img src="images/Miquel.jpg" alt="Miquel Marti" height="300" width="300">
+      <img src="images/Miquel.jpg" alt="Miquel Marti" height="150" width="150">
     </div>
 
     <div class="team-grid__member hover">
       <div class="member__info">
         <div class="center-vert-content">
-          <h3 class="member__name">Hsueh-Fu Shih</h3>
+          <h5 class="member__name">Hsueh-Fu Shih</h5>
           <p class="member__title">National Taiwan University</p>
           <a class="member__link" href="https://www.linkedin.com/in/hsueh-fu-shih-621616b5/">Read More</a>
         </div>
       </div>
-      <img src="images/jeff.jpg" alt="Hsueh-Fu Shih" height="300" width="300">
+      <img src="images/jeff.jpg" alt="Hsueh-Fu Shih" height="150" width="150">
     </div>
 
     <div class="team-grid__member hover">
       <div class="member__info">
         <div class="center-vert-content">
-          <h3 class="member__name"> Samuel Murray </h3>
+          <h5 class="member__name"> Samuel Murray </h5>
           <p class="member__title">KTH Royal Institute of Technology</p>
           <a class="member__link" href="https://www.linkedin.com/in/samuel-murray-6012545a">Read More</a>
         </div>
       </div>
-      <img src="images/samuel.jpg" alt="Samuel Murray" height="300" width="300">
+      <img src="images/samuel.jpg" alt="Samuel Murray" height="150" width="150">
     </div>
 
-
 </div>
 </div>
-
 </dl>
