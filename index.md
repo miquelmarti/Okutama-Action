@@ -319,7 +319,6 @@ a.member__link {
 </div>
 </div>
 <script>
-</script>
 /** Used Only For Touch Devices **/
 ( function( window ) {
 
@@ -401,7 +400,7 @@ a.member__link {
   }
 
 })( window );
-
+</script>
 
 
 </body>
