@@ -255,8 +255,8 @@ a.member__link {
 }
 </style>
 
-
-<script type="text/javascript" src="js/js.js"></script>
+<body>
+<script type="text/javascript" src="//use.typekit.net/npe3lft.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
 <div class="wrapper--team">
@@ -312,8 +312,8 @@ a.member__link {
 </div>
 </div>
 
+</body>
 
 </dl>
-
 ###### Contact : m.barekatain at tum dot de
 ###### Last update : 07/07/2017
