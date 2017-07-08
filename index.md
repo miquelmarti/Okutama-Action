@@ -90,10 +90,145 @@ We will soon release the metadata for each video sequence, namely camera angle, 
 #### DEVELOPERS TEAM
 The creation of this dataset was supported by [Prendinger Lab](http://research.nii.ac.jp/~prendinger/) at the [National Institute of Informatics](http://nii.ac.jp/en/), Tokyo, Japan.
 
-
 <dl>
 <head>
-<link rel="stylesheet" type="text/css" href="css.css">
+<style>
+ .wrapper--team {
+  margin: 0;
+  padding: 2rem 1rem;
+  background-color: #E9E7D0;
+}
+
+.l-container {
+  margin: 0 auto;
+}
+
+@media screen and (min-width: 64em) {
+  .l-container {
+    max-width: 64rem;
+  }
+}
+@media screen and (min-width: 75em) {
+  .l-container {
+    max-width: 75rem;
+  }
+}
+.team-grid {
+  margin: 0;
+  text-align: center;
+  *zoom: 1;
+}
+.team-grid:before, .team-grid:after {
+  content: " ";
+  display: table;
+}
+.team-grid:after {
+  clear: both;
+}
+
+.team-grid__member {
+  font-family: ff-tisa-web-pro;
+  max-width: 100%;
+  padding: 0.5rem;
+  margin: 0 0 0.5rem;
+  display: inline-block;
+  float: none;
+  width: 100%;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+@media screen and (min-width: 28em) {
+  .team-grid__member {
+    width: 49%;
+    max-width: none;
+  }
+}
+@media screen and (min-width: 42em) {
+  .team-grid__member {
+    width: 32.5%;
+  }
+}
+@media screen and (min-width: 62em) {
+  .team-grid__member {
+    width: 19.45%;
+  }
+}
+.team-grid__member {
+  position: relative;
+  overflow: hidden;
+}
+
+.team-grid__member img {
+  width: 100%;
+  height: auto;
+  border: 8px solid #fff;
+  box-sizing: border-box;
+  display: block;
+}
+
+.member__info {
+  color: #fff;
+  height: auto;
+  width: auto;
+  opacity: 0;
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  right: 1rem;
+  bottom: 1rem;
+  background: rgba(0, 0, 0, 0.85);
+  backface-visibility: hidden;
+  transition: opacity 0.4s ease-in-out;
+}
+
+.member__name {
+  color: #D9BC55;
+  font-size: 1rem;
+  letter-spacing: 1px;
+  line-height: 1.2rem;
+  margin-bottom: 0;
+  padding: 0 12px;
+}
+
+.member__title {
+  margin-bottom: 0.75rem;
+  font-size: 0.8rem;
+  font-weight: normal;
+  line-height: 1rem;
+  padding: 0 1.5rem;
+}
+
+a.member__link {
+  background: #D68D2C;
+  color: #FFF;
+  border-radius: 2px;
+  border: 0;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 16px;
+  padding: 8px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.team-grid__member:hover .member__info {
+  opacity: 1;
+}
+
+.member__info:before {
+  content: '';
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+  margin-right: -0.25em;
+}
+
+.center-vert-content {
+  display: inline-block;
+  vertical-align: middle;
+}
+</style>
 </head>
 
 <body>
