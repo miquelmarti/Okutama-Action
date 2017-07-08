@@ -94,3 +94,6 @@ The creation of this dataset was supported by [Prendinger Lab](http://research.n
 ###### Contact : m.barekatain at tum dot de
 
 ###### Last update : 07/07/2017
+
+---
+#### TEAM
