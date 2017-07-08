@@ -244,7 +244,7 @@ a.member__link {
       <div class="member__info">
         <div class="center-vert-content">
           <h5 class="member__name">Mohammadamin Barekatain</h5>
-          <p class="member__title">Technical University of Munich</p>
+          <!-- <p class="member__title">Technical University of Munich</p> -->
           <a class="member__link" href="http://barekatain.me/">Read More</a>
         </div>
       </div>
