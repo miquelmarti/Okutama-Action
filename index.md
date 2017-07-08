@@ -256,7 +256,7 @@ a.member__link {
 </style>
 
 
-<script type="text/javascript" src="//use.typekit.net/npe3lft.js"></script>
+<script type="text/javascript" src="js/js.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
 <div class="wrapper--team">
