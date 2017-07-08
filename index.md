@@ -125,7 +125,7 @@ The creation of this dataset was supported by [Prendinger Lab](http://research.n
           <a class="member__link" href="https://miquelmarti.github.io">Read More</a>
         </div>
       </div>
-      <img src="images/Miquel.jpg" alt="Miquel Marti" height="150" width="150">
+      <img src="images/miquel.jpg" alt="Miquel Marti" height="150" width="150">
     </div>
 
     <div class="team-grid__member hover">
@@ -149,7 +149,7 @@ The creation of this dataset was supported by [Prendinger Lab](http://research.n
       </div>
       <img src="images/samuel.jpg" alt="Samuel Murray" height="150" width="150">
     </div>
-
+</div>
 </div>
 </div>
 </dl>
