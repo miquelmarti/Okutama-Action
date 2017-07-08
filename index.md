@@ -93,8 +93,6 @@ The creation of this dataset was supported by [Prendinger Lab](http://research.n
 
 ###### Contact : m.barekatain at tum dot de
 
-###### Last update : 07/07/2017
-
 ---
 #### DEVELOPERS TEAM
 <dl>
@@ -276,7 +274,7 @@ a.member__link {
         <div class="center-vert-content">
           <h5 class="member__name">Mohammadamin Barekatain</h5>
           <p class="member__title">Technical University of Munich</p>
-          <!--  <a class="member__link" href="http://barekatain.me/">Read More</a> -->
+          <a class="member__link" href="http://barekatain.me/">Read More</a>
         </div>
       </div>
       <img src="images/amin.jpg" alt="Mohammadamin Barekatain" height="150" width="150">
@@ -287,7 +285,7 @@ a.member__link {
         <div class="center-vert-content">
           <h5 class="member__name"> Miquel Marti </h5>
           <p class="member__title">KTH Royal Institute of Technology</p>
-          <!-- <a class="member__link" href="https://miquelmarti.github.io">Read More</a> -->
+          <a class="member__link" href="https://miquelmarti.github.io">Read More</a>
         </div>
       </div>
       <img src="images/miquel.jpg" alt="Miquel Marti" height="150" width="150">
@@ -298,7 +296,7 @@ a.member__link {
         <div class="center-vert-content">
           <h5 class="member__name">Hsueh-Fu Shih</h5>
           <p class="member__title">National Taiwan University</p>
-          <!-- <a class="member__link" href="https://www.linkedin.com/in/hsueh-fu-shih-621616b5/">Read More</a> -->
+          <a class="member__link" href="https://www.linkedin.com/in/hsueh-fu-shih-621616b5/">Read More</a>
         </div>
       </div>
       <img src="images/jeff.jpg" alt="Hsueh-Fu Shih" height="150" width="150">
@@ -309,7 +307,7 @@ a.member__link {
         <div class="center-vert-content">
           <h5 class="member__name"> Samuel Murray </h5>
           <p class="member__title">KTH Royal Institute of Technology</p>
-          <!--  <a class="member__link" href="https://www.linkedin.com/in/samuel-murray-6012545a">Read More</a> -->
+          <a class="member__link" href="https://www.linkedin.com/in/samuel-murray-6012545a">Read More</a>
         </div>
       </div>
       <img src="images/samuel.jpg" alt="Samuel Murray" height="150" width="150">
@@ -322,3 +320,4 @@ a.member__link {
 </body>
 
 </dl>
+###### Last update : 07/07/2017
