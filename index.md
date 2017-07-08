@@ -87,14 +87,9 @@ We will soon release the metadata for each video sequence, namely camera angle, 
 
 ---
 
-#### ABOUT
-
+#### DEVELOPERS TEAM
 The creation of this dataset was supported by [Prendinger Lab](http://research.nii.ac.jp/~prendinger/) at the [National Institute of Informatics](http://nii.ac.jp/en/), Tokyo, Japan.
 
-###### Contact : m.barekatain at tum dot de
-
----
-#### DEVELOPERS TEAM
 <dl>
 <style>
 $tisa: ff-tisa-web-pro;
@@ -260,7 +255,7 @@ a.member__link {
 }
 </style>
 
-<body>
+
 <script type="text/javascript" src="//use.typekit.net/npe3lft.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
@@ -317,7 +312,8 @@ a.member__link {
 </div>
 </div>
 
-</body>
 
 </dl>
+
+###### Contact : m.barekatain at tum dot de
 ###### Last update : 07/07/2017
