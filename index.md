@@ -84,7 +84,7 @@ There are two label files for each video; one for *single*-action detection and 
 
 #### UPDATES
 - We will soon release the metadata for each video sequence, namely camera angle, speed and altitude of the drones.
-- We will soon release the test set on CodaLab where it's possible to measure the performance. 
+- We will soon release the test set on CodaLab where it's possible to measure the performance.
 
 ---
 
@@ -293,7 +293,7 @@ a.member__link {
           <a class="member__link" href="http://research.nii.ac.jp/~prendinger/">Read More</a>
         </div>
       </div>
-      <img src="images/prendinger.png" alt="Helmut Prendinger" height="300" width="300">
+      <img src="images/prendinger.jpg" alt="Helmut Prendinger" height="300" width="300">
     </div>
 
 </div>
