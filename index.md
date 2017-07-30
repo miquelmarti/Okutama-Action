@@ -284,6 +284,17 @@ a.member__link {
       <img src="images/samuel.jpg" alt="Samuel Murray" height="300" width="300">
     </div>
 
+    <div class="team-grid__member hover">
+      <div class="member__info">
+        <div class="center-vert-content">
+          <h5 class="member__name">Helmut Prendinger</h5>
+          <p class="member__title">National Institute of Informatics</p>
+          <a class="member__link" href="http://research.nii.ac.jp/~prendinger/">Read More</a>
+        </div>
+      </div>
+      <img src="images/prendinger.png" alt="Helmut Prendinger" height="300" width="300">
+    </div>
+
 </div>
 </div>
 </div>
