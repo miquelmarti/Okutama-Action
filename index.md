@@ -83,7 +83,8 @@ There are two label files for each video; one for *single*-action detection and 
 ---
 
 #### UPDATES
-We will soon release the metadata for each video sequence, namely camera angle, speed and altitude of the drones.
+- We will soon release the metadata for each video sequence, namely camera angle, speed and altitude of the drones.
+- We will soon release the test set on CodaLab where it's possible to measure the performance. 
 
 ---
 
