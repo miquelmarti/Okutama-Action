@@ -277,7 +277,7 @@ a.member__link {
     <div class="team-grid__member hover">
       <div class="member__info">
         <div class="center-vert-content">
-          <h5 class="member__name"> Samuel Murray </h5>
+          <h5 class="member__name">Samuel Murray</h5>
           <p class="member__title">KTH Royal Institute of Technology</p>
           <a class="member__link" href="https://www.linkedin.com/in/samuel-murray-6012545a">Read More</a>
         </div>
