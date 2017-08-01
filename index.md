@@ -83,12 +83,13 @@ There are two label files for each video; one for *single*-action detection and 
 ---
 
 #### UPDATES
-We will soon release the metadata for each video sequence, namely camera angle, speed and altitude of the drones.
+- We will soon release the metadata for each video sequence, namely camera angle, speed and altitude of the drones.
+- We will soon release the test set on CodaLab where it's possible to measure the performance.
 
 ---
 
 #### DEVELOPERS TEAM
-The creation of this dataset was supported by [Prendinger Lab](http://research.nii.ac.jp/~prendinger/) at the [National Institute of Informatics](http://nii.ac.jp/en/), Tokyo, Japan.
+The creation of this dataset was supported by [Prendinger Lab](http://research.nii.ac.jp/~prendinger/) at the [National Institute of Informatics](http://nii.ac.jp/en/), Tokyo, Japan. We are also grateful for financial support and the provision of GPU power from [Matsuo Lab](http://weblab.t.u-tokyo.ac.jp) at the [University of Tokyo](http://www.u-tokyo.ac.jp/en/).
 
 <dl>
 <head>
@@ -276,12 +277,23 @@ a.member__link {
     <div class="team-grid__member hover">
       <div class="member__info">
         <div class="center-vert-content">
-          <h5 class="member__name"> Samuel Murray </h5>
+          <h5 class="member__name">Samuel Murray</h5>
           <p class="member__title">KTH Royal Institute of Technology</p>
           <a class="member__link" href="https://www.linkedin.com/in/samuel-murray-6012545a">Read More</a>
         </div>
       </div>
       <img src="images/samuel.jpg" alt="Samuel Murray" height="300" width="300">
+    </div>
+
+    <div class="team-grid__member hover">
+      <div class="member__info">
+        <div class="center-vert-content">
+          <h5 class="member__name">Helmut Prendinger</h5>
+          <p class="member__title">National Institute of Informatics</p>
+          <a class="member__link" href="http://research.nii.ac.jp/~prendinger/">Read More</a>
+        </div>
+      </div>
+      <img src="images/prendinger.jpg" alt="Helmut Prendinger" height="300" width="300">
     </div>
 
 </div>
@@ -292,4 +304,4 @@ a.member__link {
 
 </dl>
 ###### Contact : m.barekatain at tum dot de
-###### Last update : 08/07/2017
+###### Last update : 31/07/2017
