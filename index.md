@@ -315,8 +315,10 @@ a.member__link {
 </dl>
 If you are interested in commercial usage you can contact us for further options.
 
+---
+
 ###### Contact : m.barekatain at tum dot de
-###### Last update : 31/07/2017
+###### Last update : 11/11/2017
 
 <!-- Global Site Tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106875508-1"></script>
