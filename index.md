@@ -75,6 +75,9 @@ There are two label files for each video; one for *single*-action detection and 
 
 **Training set (videos & labels)** [link](https://drive.google.com/drive/folders/0B6O3GZcCIFuDaUs4dG1HWWEyUWM?usp=sharing).
 
+**Test set (videos)**
+[link](https://drive.google.com/drive/folders/0BydaU2Imk1zjQjVXbmwxT1RsSVU?usp=sharing)
+
 ---
 
 #### MODELS DOWNLOAD
@@ -84,7 +87,7 @@ There are two label files for each video; one for *single*-action detection and 
 
 #### UPDATES
 - We will soon release the metadata for each video sequence, namely camera angle, speed and altitude of the drones.
-- We will soon release the test set on CodaLab where it's possible to measure the performance.
+- We will soon release the test set labels on CodaLab where it's possible to measure the performance.
 
 ---
 
@@ -310,6 +313,7 @@ a.member__link {
 <dl>
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
 </dl>
+If you are interested in commercial usage you can contact us for further options.
 
 ###### Contact : m.barekatain at tum dot de
 ###### Last update : 31/07/2017
@@ -323,4 +327,3 @@ a.member__link {
 
   gtag('config', 'UA-106875508-1');
 </script>
-
