@@ -9,7 +9,8 @@ _We present Okutama-Action, a new video dataset for aerial view concurrent human
 
 #### Download
 
-Find the training set of Okutama-Action in the following [link](https://drive.google.com/drive/folders/0B6O3GZcCIFuDaUs4dG1HWWEyUWM?usp=sharing).
+Find the training set (with labels) of Okutama-Action in the following [link](https://drive.google.com/drive/folders/0B6O3GZcCIFuDaUs4dG1HWWEyUWM?usp=sharing).
+Find the test set in the following [link](https://drive.google.com/drive/folders/0BydaU2Imk1zjQjVXbmwxT1RsSVU?usp=sharing). The test set labels will not be disclosed but getting the test scores will be possible by uploading the results to CODA lab _soon_.
 
 #### About
 
