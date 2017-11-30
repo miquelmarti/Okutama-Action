@@ -14,7 +14,7 @@ _We present Okutama-Action, a new video dataset for aerial view concurrent human
 ---
 
 #### CITATION
-If you find this dataset useful, please cite the following paper
+If you find this dataset useful, please cite the following paper:
 <img style="float: left; margin-top:5px; width:30%" src="images/teaser.png" alt="arXiv">
 
 Okutama-Action: An Aerial View Video Dataset for Concurrent Human Action Detection
