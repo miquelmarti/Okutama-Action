@@ -27,8 +27,9 @@ Okutama-Action: An Aerial View Video Dataset for Concurrent Human Action Detecti
                     <a href="http://ymatsuo.com/" target="_blank">Y. Matsuo</a>, and
                     <a href="http://research.nii.ac.jp/~prendinger/" target="_blank">H. Prendinger</a>
                     <br>
-                                       <i>arXiv:1706.03038, 2017</i><br>
-                    [<a href="https://arxiv.org/abs/1706.03038" target="_blank">PDF</a>]
+                    The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2017, pp. 28-35
+                                       <a href="https://arxiv.org/abs/1706.03038">arXiv:1706.03038</a><br>
+                    [<a href="https://arxiv.org/pdf/1706.03038.pdf" target="_blank">PDF</a>]
 
 ---
 
