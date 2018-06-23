@@ -59,7 +59,7 @@ Hence, the pair of videos with the same last two integers are the same scenario 
 **Labels**:  Each line contains 10+ columns, separated by spaces. The
 definition of these columns are:
 
-1.   Track ID. *All rows with the same ID belong to the same person for 180 frames. Then the person gets a new idea for the next 180 frames. We will soon release an update to make the IDs consistant.*
+1.   Track ID. *please check the below part for details*
 2.   xmin. The top left x-coordinate of the bounding box.
 3.   ymin. The top left y-coordinate of the bounding box.
 4.   xmax. The bottom right x-coordinate of the bounding box.
@@ -72,11 +72,13 @@ definition of these columns are:
 11. (+)  actions. Each column after this is an action.
 
 
-There are two label files for each video; one for *single*-action detection and one for *multi-*action detection. Note that labels for *single*-action detection has been created from the *multi*-action detection labels (for more details please refer to our publication). For pedestrian detection task, the columns describing the actions should be ignored.
+There are three label files for each videos: 1- MultiActionLabels: labels for *multi-*action detection task. 2- SingleActionLabels: labels for *single*-action detection task which has been created from the *multi*-action detection labels (for more details please refer to our publication). In both of these files, all rows with the same "Track ID" belong to the same person for 180 frames. Then the person gets a new ID for the next 180 frames. 3- SingleActionTrackingLabels: same labels as 2, but here the ID's are consistent. This means that each person has a unique ID in the video but will get a new one if he/she is absent for more than 90 frames. 
+
+For pedestrian detection task, the columns describing the actions should be ignored.
 
 **Training set (videos & labels)** [link](https://drive.google.com/drive/folders/0B6O3GZcCIFuDaUs4dG1HWWEyUWM?usp=sharing).
 
-**Test set (videos)**
+**Test set (videos & labels)**
 [link](https://drive.google.com/drive/folders/0BydaU2Imk1zjQjVXbmwxT1RsSVU?usp=sharing)
 
 ---
@@ -88,7 +90,7 @@ There are two label files for each video; one for *single*-action detection and 
 
 #### UPDATES
 - We will soon release the metadata for each video sequence, namely camera angle, speed and altitude of the drones.
-- We will soon release the test set labels on CodaLab where it's possible to measure the performance.
+- Test set labels are now available.
 
 ---
 
@@ -314,12 +316,12 @@ a.member__link {
 <dl>
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
 </dl>
-If you are interested in commercial usage you can contact us for further options.
+**If you are interested in commercial usage you can contact us for further options.**
 
 ---
 
 ###### Contact : m.barekatain at tum dot de
-###### Last update : 11/11/2017
+###### Last update : 23/06/2018
 
 <!-- Global Site Tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106875508-1"></script>
