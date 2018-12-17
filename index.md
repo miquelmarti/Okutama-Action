@@ -285,7 +285,7 @@ a.member__link {
         <div class="center-vert-content">
           <h5 class="member__name">Samuel Murray</h5>
           <p class="member__title">KTH Royal Institute of Technology</p>
-          <a class="member__link" href="https://www.linkedin.com/in/samuel-murray-6012545a">Read More</a>
+          <a class="member__link" href="https://samuelmurray.github.io/">Read More</a>
         </div>
       </div>
       <img src="images/samuel.jpg" alt="Samuel Murray" height="300" width="300">
