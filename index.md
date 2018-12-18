@@ -22,7 +22,7 @@ Okutama-Action: An Aerial View Video Dataset for Concurrent Human Action Detecti
                     <a href="http://barekatain.me/" target="_blank">M. Barekatain</a>,
                     <a href="https://miquelmarti.github.io" target="_blank">M. Martí</a>,
                     <a href="https://www.linkedin.com/in/hsueh-fu-shih-621616b5/" target="_blank">H. Shih</a>,
-                    <a href="https://www.linkedin.com/in/samuel-murray-6012545a" target="_blank">S. Murray</a>,
+                    <a href="https://samuelmurray.github.io/" target="_blank">S. Murray</a>,
                     <a href="http://knakayama.com/" target="_blank">K. Nakayama</a>,
                     <a href="http://ymatsuo.com/" target="_blank">Y. Matsuo</a>, and
                     <a href="http://research.nii.ac.jp/~prendinger/" target="_blank">H. Prendinger</a>
@@ -72,7 +72,7 @@ definition of these columns are:
 11. (+)  actions. Each column after this is an action.
 
 
-There are three label files for each videos: 1- MultiActionLabels: labels for *multi-*action detection task. 2- SingleActionLabels: labels for *single*-action detection task which has been created from the *multi*-action detection labels (for more details please refer to our publication). In both of these files, all rows with the same "Track ID" belong to the same person for 180 frames. Then the person gets a new ID for the next 180 frames. 3- SingleActionTrackingLabels: same labels as 2, but here the ID's are consistent. This means that each person has a unique ID in the video but will get a new one if he/she is absent for more than 90 frames. 
+There are three label files for each videos: 1- MultiActionLabels: labels for *multi-*action detection task. 2- SingleActionLabels: labels for *single*-action detection task which has been created from the *multi*-action detection labels (for more details please refer to our publication). In both of these files, all rows with the same "Track ID" belong to the same person for 180 frames. Then the person gets a new ID for the next 180 frames. 3- SingleActionTrackingLabels: same labels as 2, but here the ID's are consistent. This means that each person has a unique ID in the video but will get a new one if he/she is absent for more than 90 frames.
 
 For pedestrian detection task, the columns describing the actions should be ignored.
 
@@ -288,7 +288,7 @@ a.member__link {
           <a class="member__link" href="https://samuelmurray.github.io/">Read More</a>
         </div>
       </div>
-      <img src="images/samuel.jpg" alt="Samuel Murray" height="300" width="300">
+      <img src="images/samuel.png" alt="Samuel Murray" height="300" width="300">
     </div>
 
     <div class="team-grid__member hover">
