@@ -76,21 +76,27 @@ There are three label files for each videos: 1- MultiActionLabels: labels for *m
 
 For pedestrian detection task, the columns describing the actions should be ignored.
 
-**Training set (videos & labels)** [link](https://drive.google.com/drive/folders/0B6O3GZcCIFuDaUs4dG1HWWEyUWM?usp=sharing).
+**Training set (1280x720 frames & labels)** [link](https://okutama-action.s3.eu-central-1.amazonaws.com/TrainSetFrames.zip).
 
-**Test set (videos & labels)**
-[link](https://drive.google.com/drive/folders/0BydaU2Imk1zjQjVXbmwxT1RsSVU?usp=sharing)
+**Test set (1280x720 frames & labels)**
+[link](https://okutama-action.s3.eu-central-1.amazonaws.com/TestSetFrames.zip)
+
+**Training set (4K videos & labels)** [link](https://okutama-action.s3.eu-central-1.amazonaws.com/TrainSetVideos.zip).
+
+**Test set (4K videos & labels)**
+[link](https://okutama-action.s3.eu-central-1.amazonaws.com/TestSetVideos.zip)
 
 ---
 
 #### MODELS DOWNLOAD
-**Final trained Caffe models** [link](https://drive.google.com/drive/folders/0BydaU2Imk1zjSUpCdFpmbmtEeHc?usp=sharing).
+**Final trained Caffe models** [link](https://okutama-action.s3.eu-central-1.amazonaws.com/FinalModels.zip).
 
 ---
 
 #### UPDATES
 - We will soon release the metadata for each video sequence, namely camera angle, speed and altitude of the drones.
 - Test set labels are now available.
+- Links have been updated, now hosted on AWS for easier download.
 
 ---
 
