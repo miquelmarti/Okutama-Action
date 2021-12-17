@@ -76,15 +76,19 @@ There are three label files for each videos: 1- MultiActionLabels: labels for *m
 
 For pedestrian detection task, the columns describing the actions should be ignored.
 
-**Training set (1280x720 frames & labels)** [link](https://okutama-action.s3.eu-central-1.amazonaws.com/TrainSetFrames.zip).
+**Sample (one 4K video and labels)** [link (540 MB)](https://okutama-action.s3.eu-central-1.amazonaws.com/Sample.zip)
+
+Full dataset:
+
+**Training set (1280x720 frames & labels)** [link (5.3 GB)](https://okutama-action.s3.eu-central-1.amazonaws.com/TrainSetFrames.zip)
 
 **Test set (1280x720 frames & labels)**
-[link](https://okutama-action.s3.eu-central-1.amazonaws.com/TestSetFrames.zip)
+[link (1.5 GB)](https://okutama-action.s3.eu-central-1.amazonaws.com/TestSetFrames.zip)
 
-**Training set (4K videos & labels)** [link](https://okutama-action.s3.eu-central-1.amazonaws.com/TrainSetVideos.zip).
+**Training set (4K videos & labels)** [link (14 GB)](https://okutama-action.s3.eu-central-1.amazonaws.com/TrainSetVideos.zip)
 
 **Test set (4K videos & labels)**
-[link](https://okutama-action.s3.eu-central-1.amazonaws.com/TestSetVideos.zip)
+[link (4 GB)](https://okutama-action.s3.eu-central-1.amazonaws.com/TestSetVideos.zip)
 
 ---
 

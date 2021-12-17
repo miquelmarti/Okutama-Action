@@ -9,6 +9,8 @@ _We present Okutama-Action, a new video dataset for aerial view concurrent human
 
 #### Download
 
+- Sample (one 4K video and labels): [sample](https://okutama-action.s3.eu-central-1.amazonaws.com/Sample.zip)
+
 We offer the dataset in two different formats:
 
 - 1280x720 frames + labels: [train set](https://okutama-action.s3.eu-central-1.amazonaws.com/TrainSetFrames.zip), [test set](https://okutama-action.s3.eu-central-1.amazonaws.com/TestSetFrames.zip)
