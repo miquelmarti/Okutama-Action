@@ -76,24 +76,26 @@ There are three label files for each videos: 1- MultiActionLabels: labels for *m
 
 For pedestrian detection task, the columns describing the actions should be ignored.
 
-**Sample (one 4K video and labels)** [link (540 MB)](https://okutama-action.s3.eu-central-1.amazonaws.com/Sample.zip)
+**Sample (one 4K video and labels)** [link (540 MB)](https://www.dropbox.com/scl/fo/9qvpsb3fsamvqzsa12149/APTyV-f01XLnJ0WFpZSBLOE?dl=0&e=1&preview=Sample.zip&rlkey=7u7131amaul29amyr4jbnnu03)
 
 Full dataset:
 
-**Training set (1280x720 frames & labels)** [link (5.3 GB)](https://okutama-action.s3.eu-central-1.amazonaws.com/TrainSetFrames.zip)
+**Training set (1280x720 frames & labels)** [link (5.3 GB)](https://www.dropbox.com/scl/fo/9qvpsb3fsamvqzsa12149/APTyV-f01XLnJ0WFpZSBLOE?dl=0&e=1&preview=TrainSetFrames.zip&rlkey=7u7131amaul29amyr4jbnnu03)
 
 **Test set (1280x720 frames & labels)**
-[link (1.5 GB)](https://okutama-action.s3.eu-central-1.amazonaws.com/TestSetFrames.zip)
+[link (1.5 GB)](https://www.dropbox.com/scl/fo/9qvpsb3fsamvqzsa12149/APTyV-f01XLnJ0WFpZSBLOE?dl=0&e=1&preview=TestSetFrames.zip&rlkey=7u7131amaul29amyr4jbnnu03)
 
-**Training set (4K videos & labels)** [link (14 GB)](https://okutama-action.s3.eu-central-1.amazonaws.com/TrainSetVideos.zip)
+**Training set (4K videos & labels)** [link (14 GB)](https://www.dropbox.com/scl/fo/9qvpsb3fsamvqzsa12149/APTyV-f01XLnJ0WFpZSBLOE?dl=0&e=1&preview=TrainSetVideos.zip&rlkey=7u7131amaul29amyr4jbnnu03)
 
 **Test set (4K videos & labels)**
-[link (4 GB)](https://okutama-action.s3.eu-central-1.amazonaws.com/TestSetVideos.zip)
+[link (4 GB)](https://www.dropbox.com/scl/fo/9qvpsb3fsamvqzsa12149/APTyV-f01XLnJ0WFpZSBLOE?dl=0&e=1&preview=TestSetVideos.zip&rlkey=7u7131amaul29amyr4jbnnu03)
+
+**All files** [link](https://www.dropbox.com/scl/fo/9qvpsb3fsamvqzsa12149/APTyV-f01XLnJ0WFpZSBLOE?rlkey=7u7131amaul29amyr4jbnnu03&dl=0)
 
 ---
 
 #### MODELS DOWNLOAD
-**Final trained Caffe models** [link](https://okutama-action.s3.eu-central-1.amazonaws.com/FinalModels.zip).
+**Final trained Caffe models** [link](https://www.dropbox.com/scl/fo/9qvpsb3fsamvqzsa12149/APTyV-f01XLnJ0WFpZSBLOE?dl=0&e=1&preview=FinalModels.zip&rlkey=7u7131amaul29amyr4jbnnu03).
 
 ---
 
@@ -101,6 +103,7 @@ Full dataset:
 - We will soon release the metadata for each video sequence, namely camera angle, speed and altitude of the drones.
 - Test set labels are now available.
 - Links have been updated, now hosted on AWS for easier download.
+- Links have been updated, now hosted on Dropbox.
 
 ---
 
