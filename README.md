@@ -9,14 +9,16 @@ _We present Okutama-Action, a new video dataset for aerial view concurrent human
 
 #### Download
 
-- Sample (one 4K video and labels): [sample](https://okutama-action.s3.eu-central-1.amazonaws.com/Sample.zip)
+- Sample (one 4K video and labels): [sample](https://www.dropbox.com/scl/fo/9qvpsb3fsamvqzsa12149/APTyV-f01XLnJ0WFpZSBLOE?dl=0&e=1&preview=Sample.zip&rlkey=7u7131amaul29amyr4jbnnu03)
 
 We offer the dataset in two different formats:
 
-- 1280x720 frames + labels: [train set](https://okutama-action.s3.eu-central-1.amazonaws.com/TrainSetFrames.zip), [test set](https://okutama-action.s3.eu-central-1.amazonaws.com/TestSetFrames.zip)
-- 4K videos + labels: [train set](https://okutama-action.s3.eu-central-1.amazonaws.com/TrainSetVideos.zip), [test set](https://okutama-action.s3.eu-central-1.amazonaws.com/TestSetVideos.zip)
+- 1280x720 frames + labels: [train set](https://www.dropbox.com/scl/fo/9qvpsb3fsamvqzsa12149/APTyV-f01XLnJ0WFpZSBLOE?dl=0&e=1&preview=TrainSetFrames.zip&rlkey=7u7131amaul29amyr4jbnnu03), [test set](https://www.dropbox.com/scl/fo/9qvpsb3fsamvqzsa12149/APTyV-f01XLnJ0WFpZSBLOE?dl=0&e=1&preview=TestSetFrames.zip&rlkey=7u7131amaul29amyr4jbnnu03)
+- 4K videos + labels: [train set](https://www.dropbox.com/scl/fo/9qvpsb3fsamvqzsa12149/APTyV-f01XLnJ0WFpZSBLOE?dl=0&e=1&preview=TrainSetVideos.zip&rlkey=7u7131amaul29amyr4jbnnu03), [test set](https://www.dropbox.com/scl/fo/9qvpsb3fsamvqzsa12149/APTyV-f01XLnJ0WFpZSBLOE?dl=0&e=1&preview=TestSetVideos.zip&rlkey=7u7131amaul29amyr4jbnnu03)
 
-In addition, we provide trained models in Caffe: [models](https://okutama-action.s3.eu-central-1.amazonaws.com/FinalModels.zip)
+In addition, we provide trained models in Caffe: [models](https://www.dropbox.com/scl/fo/9qvpsb3fsamvqzsa12149/APTyV-f01XLnJ0WFpZSBLOE?dl=0&e=1&preview=FinalModels.zip&rlkey=7u7131amaul29amyr4jbnnu03)
+
+All files: [link](https://www.dropbox.com/scl/fo/9qvpsb3fsamvqzsa12149/APTyV-f01XLnJ0WFpZSBLOE?rlkey=7u7131amaul29amyr4jbnnu03&dl=0)
 
 #### About
 
